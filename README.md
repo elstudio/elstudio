@@ -2,7 +2,7 @@
 
 Hi, I’m Eric. I’m a developer and a writer living near Washington DC.
 
-I work at [GitHub](https://government.github.com) now — helping the Public Sector make better, more secure software.
+I work at [GitHub](https://government.github.com), helping the Public Sector make better, more secure software.
 
 Let's grab coffee.
 
