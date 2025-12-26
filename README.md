@@ -8,4 +8,4 @@ Let's grab coffee.
 
 - [More about me  &rarr;](https://www.elstudio.us/about)
 - [My personal website](https://www.elstudio.us)
-- [@elstudio on Twitter  &rarr;](https://twitter.com/elstudio)
+- [@elstudio@mastodon.social on Mastodon  &rarr;](https://mastodon.social/@elstudio)
